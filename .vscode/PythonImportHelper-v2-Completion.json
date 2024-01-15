@@ -1,0 +1,640 @@
+[
+    {
+        "label": "abstractmethod",
+        "importPath": "abc",
+        "description": "abc",
+        "isExtraImport": true,
+        "detail": "abc",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "QueryBundle",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleDirectoryReader",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "download_loader",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceContext",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreIndex",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "StorageContext",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreIndex",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceContext",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreIndex",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceContext",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "VectorStoreIndex",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "ServiceContext",
+        "importPath": "llama_index",
+        "description": "llama_index",
+        "isExtraImport": true,
+        "detail": "llama_index",
+        "documentation": {}
+    },
+    {
+        "label": "NodeWithScore",
+        "importPath": "llama_index.schema",
+        "description": "llama_index.schema",
+        "isExtraImport": true,
+        "detail": "llama_index.schema",
+        "documentation": {}
+    },
+    {
+        "label": "requests",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "requests",
+        "description": "requests",
+        "detail": "requests",
+        "documentation": {}
+    },
+    {
+        "label": "BeautifulSoup",
+        "importPath": "bs4",
+        "description": "bs4",
+        "isExtraImport": true,
+        "detail": "bs4",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "urllib",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib",
+        "description": "urllib",
+        "detail": "urllib",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "load_dotenv",
+        "importPath": "dotenv",
+        "description": "dotenv",
+        "isExtraImport": true,
+        "detail": "dotenv",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleNodeParser",
+        "importPath": "llama_index.node_parser",
+        "description": "llama_index.node_parser",
+        "isExtraImport": true,
+        "detail": "llama_index.node_parser",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAI",
+        "importPath": "llama_index.llms",
+        "description": "llama_index.llms",
+        "isExtraImport": true,
+        "detail": "llama_index.llms",
+        "documentation": {}
+    },
+    {
+        "label": "OpenAIEmbedding",
+        "importPath": "llama_index.embeddings.openai",
+        "description": "llama_index.embeddings.openai",
+        "isExtraImport": true,
+        "detail": "llama_index.embeddings.openai",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "llama_index.vector_stores",
+        "description": "llama_index.vector_stores",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "llama_index.vector_stores",
+        "description": "llama_index.vector_stores",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "llama_index.vector_stores",
+        "description": "llama_index.vector_stores",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores",
+        "documentation": {}
+    },
+    {
+        "label": "PineconeVectorStore",
+        "importPath": "llama_index.vector_stores",
+        "description": "llama_index.vector_stores",
+        "isExtraImport": true,
+        "detail": "llama_index.vector_stores",
+        "documentation": {}
+    },
+    {
+        "label": "pinecone",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pinecone",
+        "description": "pinecone",
+        "detail": "pinecone",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "JSONResponse",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaDebugHandler",
+        "importPath": "llama_index.callbacks",
+        "description": "llama_index.callbacks",
+        "isExtraImport": true,
+        "detail": "llama_index.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManager",
+        "importPath": "llama_index.callbacks",
+        "description": "llama_index.callbacks",
+        "isExtraImport": true,
+        "detail": "llama_index.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaDebugHandler",
+        "importPath": "llama_index.callbacks",
+        "description": "llama_index.callbacks",
+        "isExtraImport": true,
+        "detail": "llama_index.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManager",
+        "importPath": "llama_index.callbacks",
+        "description": "llama_index.callbacks",
+        "isExtraImport": true,
+        "detail": "llama_index.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "LlamaDebugHandler",
+        "importPath": "llama_index.callbacks",
+        "description": "llama_index.callbacks",
+        "isExtraImport": true,
+        "detail": "llama_index.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "CallbackManager",
+        "importPath": "llama_index.callbacks",
+        "description": "llama_index.callbacks",
+        "isExtraImport": true,
+        "detail": "llama_index.callbacks",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMode",
+        "importPath": "llama_index.chat_engine.types",
+        "description": "llama_index.chat_engine.types",
+        "isExtraImport": true,
+        "detail": "llama_index.chat_engine.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMode",
+        "importPath": "llama_index.chat_engine.types",
+        "description": "llama_index.chat_engine.types",
+        "isExtraImport": true,
+        "detail": "llama_index.chat_engine.types",
+        "documentation": {}
+    },
+    {
+        "label": "ChatMode",
+        "importPath": "llama_index.chat_engine.types",
+        "description": "llama_index.chat_engine.types",
+        "isExtraImport": true,
+        "detail": "llama_index.chat_engine.types",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceEmbeddingOptimizer",
+        "importPath": "llama_index.postprocessor",
+        "description": "llama_index.postprocessor",
+        "isExtraImport": true,
+        "detail": "llama_index.postprocessor",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceEmbeddingOptimizer",
+        "importPath": "llama_index.postprocessor",
+        "description": "llama_index.postprocessor",
+        "isExtraImport": true,
+        "detail": "llama_index.postprocessor",
+        "documentation": {}
+    },
+    {
+        "label": "SentenceEmbeddingOptimizer",
+        "importPath": "llama_index.postprocessor",
+        "description": "llama_index.postprocessor",
+        "isExtraImport": true,
+        "detail": "llama_index.postprocessor",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateRemoverNodePostprocessor",
+        "importPath": "node_postprocessors.duplicate_postprocessing",
+        "description": "node_postprocessors.duplicate_postprocessing",
+        "isExtraImport": true,
+        "detail": "node_postprocessors.duplicate_postprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateRemoverNodePostprocessor",
+        "importPath": "node_postprocessors.duplicate_postprocessing",
+        "description": "node_postprocessors.duplicate_postprocessing",
+        "isExtraImport": true,
+        "detail": "node_postprocessors.duplicate_postprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateRemoverNodePostprocessor",
+        "importPath": "node_postprocessors.duplicate_postprocessing",
+        "description": "node_postprocessors.duplicate_postprocessing",
+        "isExtraImport": true,
+        "detail": "node_postprocessors.duplicate_postprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "streamlit",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "streamlit",
+        "description": "streamlit",
+        "detail": "streamlit",
+        "documentation": {}
+    },
+    {
+        "label": "DuplicateRemoverNodePostprocessor",
+        "kind": 6,
+        "importPath": "node_postprocessors.duplicate_postprocessing",
+        "description": "node_postprocessors.duplicate_postprocessing",
+        "peekOfCode": "class DuplicateRemoverNodePostprocessor:\n    \"\"\"Node postprocessor.\"\"\"\n    @abstractmethod\n    def postprocess_nodes(\n        self, nodes: List[NodeWithScore], query_bundle: Optional[QueryBundle]\n    ) -> List[NodeWithScore]:\n        \"\"\"Postprocess nodes.\"\"\"\n        print(\"_postprocess_nodes enter\")\n        unique_hashes = set()\n        unique_nodes = []",
+        "detail": "node_postprocessors.duplicate_postprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "ur0",
+        "kind": 5,
+        "importPath": "download_docs",
+        "description": "download_docs",
+        "peekOfCode": "ur0 = \"https://gpt-index.readthedocs.io/en/stable/\"\nurl = \"https://docs.llamaindex.ai/en/stable/\"\n# The directory to store files in\noutput_dir = \"./llamindex-docs/\"\n# Create the output directory if it doesn't exist\nos.makedirs(output_dir, exist_ok=True)\n# Fetch the page\nresponse = requests.get(url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Find all links to .html files",
+        "detail": "download_docs",
+        "documentation": {}
+    },
+    {
+        "label": "url",
+        "kind": 5,
+        "importPath": "download_docs",
+        "description": "download_docs",
+        "peekOfCode": "url = \"https://docs.llamaindex.ai/en/stable/\"\n# The directory to store files in\noutput_dir = \"./llamindex-docs/\"\n# Create the output directory if it doesn't exist\nos.makedirs(output_dir, exist_ok=True)\n# Fetch the page\nresponse = requests.get(url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Find all links to .html files\nlinks = soup.find_all(\"a\", href=True)",
+        "detail": "download_docs",
+        "documentation": {}
+    },
+    {
+        "label": "output_dir",
+        "kind": 5,
+        "importPath": "download_docs",
+        "description": "download_docs",
+        "peekOfCode": "output_dir = \"./llamindex-docs/\"\n# Create the output directory if it doesn't exist\nos.makedirs(output_dir, exist_ok=True)\n# Fetch the page\nresponse = requests.get(url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Find all links to .html files\nlinks = soup.find_all(\"a\", href=True)\nfor link in links:\n    href = link[\"href\"]",
+        "detail": "download_docs",
+        "documentation": {}
+    },
+    {
+        "label": "response",
+        "kind": 5,
+        "importPath": "download_docs",
+        "description": "download_docs",
+        "peekOfCode": "response = requests.get(url)\nsoup = BeautifulSoup(response.text, \"html.parser\")\n# Find all links to .html files\nlinks = soup.find_all(\"a\", href=True)\nfor link in links:\n    href = link[\"href\"]\n    # If it's a .html file\n    if href.endswith(\".html\"):\n        # Make a full URL if necessary\n        if not href.startswith(\"http\"):",
+        "detail": "download_docs",
+        "documentation": {}
+    },
+    {
+        "label": "soup",
+        "kind": 5,
+        "importPath": "download_docs",
+        "description": "download_docs",
+        "peekOfCode": "soup = BeautifulSoup(response.text, \"html.parser\")\n# Find all links to .html files\nlinks = soup.find_all(\"a\", href=True)\nfor link in links:\n    href = link[\"href\"]\n    # If it's a .html file\n    if href.endswith(\".html\"):\n        # Make a full URL if necessary\n        if not href.startswith(\"http\"):\n            href = urllib.parse.urljoin(url, href)",
+        "detail": "download_docs",
+        "documentation": {}
+    },
+    {
+        "label": "links",
+        "kind": 5,
+        "importPath": "download_docs",
+        "description": "download_docs",
+        "peekOfCode": "links = soup.find_all(\"a\", href=True)\nfor link in links:\n    href = link[\"href\"]\n    # If it's a .html file\n    if href.endswith(\".html\"):\n        # Make a full URL if necessary\n        if not href.startswith(\"http\"):\n            href = urllib.parse.urljoin(url, href)\n        # Fetch the .html file\n        print(f\"downloading {href}\")",
+        "detail": "download_docs",
+        "documentation": {}
+    },
+    {
+        "label": "get_index",
+        "kind": 2,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "def get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)\n    vector_store = PineconeVectorStore(pinecone_index=pinecone_index)\n    return VectorStoreIndex.from_vector_store(\n        vector_store=vector_store, service_context=service_context",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "test",
+        "kind": 2,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "def test():\n    return \"Test route working!\"\n# Para rodar o servidor: uvicorn nome_do_seu_arquivo:app --reload\n# from llamaindex.node_postprocessor import SentenceEmbeddingOptimizer\n# import tensorflow_hub as hub\n# from llamaindex.pipeline import LlamaIndexPipeline\n# # Carregando o modelo Universal Sentence Encoder pré-treinado\n# model = hub.load(\"https://tfhub.dev/google/universal-sentence-encoder/4\")\n# # Criação do otimizador de embedding de sentenças\n# embedding_optimizer = SentenceEmbeddingOptimizer(model=model)",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "app = FastAPI()\n# Carregar variáveis de ambiente\nload_dotenv()\n# Configurar o contexto de serviço e o callback manager\nllama_debug = LlamaDebugHandler(print_trace_on_end=True)\ncallback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n# Função para obter o índice Llama\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "llama_debug",
+        "kind": 5,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "llama_debug = LlamaDebugHandler(print_trace_on_end=True)\ncallback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n# Função para obter o índice Llama\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "callback_manager",
+        "kind": 5,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "callback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n# Função para obter o índice Llama\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "service_context",
+        "kind": 5,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "service_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n# Função para obter o índice Llama\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)\n    vector_store = PineconeVectorStore(pinecone_index=pinecone_index)",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 5,
+        "importPath": "main-api",
+        "description": "main-api",
+        "peekOfCode": "index = get_index()\n# Endpoint /chat\n@app.post(\"/chat\")\nasync def chat(request: Request):\n    body = await request.json()\n    user_message = body.get(\"message\")\n    postprocessor = SentenceEmbeddingOptimizer(\n        embed_model=service_context.embed_model,\n        percentile_cutoff=0.5,\n        threshold_cutoff=0.7,",
+        "detail": "main-api",
+        "documentation": {}
+    },
+    {
+        "label": "get_index",
+        "kind": 2,
+        "importPath": "main-with-streamlitl",
+        "description": "main-with-streamlitl",
+        "peekOfCode": "def get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)\n    vector_store = PineconeVectorStore(pinecone_index=pinecone_index)\n    return VectorStoreIndex.from_vector_store(\n        vector_store=vector_store, service_context=service_context",
+        "detail": "main-with-streamlitl",
+        "documentation": {}
+    },
+    {
+        "label": "llama_debug",
+        "kind": 5,
+        "importPath": "main-with-streamlitl",
+        "description": "main-with-streamlitl",
+        "peekOfCode": "llama_debug = LlamaDebugHandler(print_trace_on_end=True)\ncallback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n@st.cache_resource(show_spinner=False)\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"",
+        "detail": "main-with-streamlitl",
+        "documentation": {}
+    },
+    {
+        "label": "callback_manager",
+        "kind": 5,
+        "importPath": "main-with-streamlitl",
+        "description": "main-with-streamlitl",
+        "peekOfCode": "callback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n@st.cache_resource(show_spinner=False)\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)",
+        "detail": "main-with-streamlitl",
+        "documentation": {}
+    },
+    {
+        "label": "service_context",
+        "kind": 5,
+        "importPath": "main-with-streamlitl",
+        "description": "main-with-streamlitl",
+        "peekOfCode": "service_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n@st.cache_resource(show_spinner=False)\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)\n    vector_store = PineconeVectorStore(pinecone_index=pinecone_index)",
+        "detail": "main-with-streamlitl",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 5,
+        "importPath": "main-with-streamlitl",
+        "description": "main-with-streamlitl",
+        "peekOfCode": "index = get_index()\nif \"chat_engine\" not in st.session_state.keys():\n    # é possivel utilizar embeddings models open source como Sentence-BERT, Universal Sentence Encoder e LASER, no final do artigo contem alguns exemplos\n    postprocessor = SentenceEmbeddingOptimizer(\n        embed_model=service_context.embed_model,\n        percentile_cutoff=0.5,\n        threshold_cutoff=0.7,\n    )\n    st.session_state.chat_engine = index.as_chat_engine(\n        chat_mode=ChatMode.CONTEXT,",
+        "detail": "main-with-streamlitl",
+        "documentation": {}
+    },
+    {
+        "label": "get_index",
+        "kind": 2,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "def get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)\n    vector_store = PineconeVectorStore(pinecone_index=pinecone_index)\n    return VectorStoreIndex.from_vector_store(\n        vector_store=vector_store, service_context=service_context",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "llama_debug",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "llama_debug = LlamaDebugHandler(print_trace_on_end=True)\ncallback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n@st.cache_resource(show_spinner=False)\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "callback_manager",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "callback_manager = CallbackManager(handlers=[llama_debug])\nservice_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n@st.cache_resource(show_spinner=False)\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "service_context",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "service_context = ServiceContext.from_defaults(callback_manager=callback_manager)\n@st.cache_resource(show_spinner=False)\ndef get_index() -> VectorStoreIndex:\n    pinecone.init(\n        api_key=os.environ[\"PINECONE_API_KEY\"],\n        environment=os.environ[\"PINECONE_ENVIRONMENT\"],\n    )\n    index_name = \"llamaindex-documentation-helper\"\n    pinecone_index = pinecone.Index(index_name=index_name)\n    vector_store = PineconeVectorStore(pinecone_index=pinecone_index)",
+        "detail": "main",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 5,
+        "importPath": "main",
+        "description": "main",
+        "peekOfCode": "index = get_index()\nif \"chat_engine\" not in st.session_state.keys():\n    # é possivel utilizar embeddings models open source como Sentence-BERT, Universal Sentence Encoder e LASER, no final do artigo contem alguns exemplos\n    postprocessor = SentenceEmbeddingOptimizer(\n        embed_model=service_context.embed_model,\n        percentile_cutoff=0.5,\n        threshold_cutoff=0.7,\n    )\n    st.session_state.chat_engine = index.as_chat_engine(\n        chat_mode=ChatMode.CONTEXT,",
+        "detail": "main",
+        "documentation": {}
+    }
+]
